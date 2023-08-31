@@ -90,8 +90,8 @@
   <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmesh-Poriya07" /> -->
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmesh-Poriya07&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmesh-Poriya07&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaySavani&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaySavani&theme=radical)
 
 <!--
 **JaySavani/JaySavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
