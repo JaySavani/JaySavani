@@ -84,12 +84,11 @@
 
 📈 Stats
 
-<!--
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaySavani&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaySavani&hide_border=true&theme=radical" />	
 </p>
--->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaySavani&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaySavani&theme=radical)
