@@ -1,9 +1,5 @@
 # Hey there, I'm Jay Savani <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/JaySavani/count.svg" />
-</p>
 <br>
 <!-- :mailbox : Reach me out! -->
 <p>Find out more about me & feel free to connect with me here:<img style="display: inline-block" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
